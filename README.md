@@ -1,5 +1,5 @@
 # Portfolio Website Project
-Live [here](https://about.paethos.me/)
+Live [here](https://patoro7247.github.io))
 
 This is my project website made with React and Chakra UI
 
